@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         "pocifico": "'Pacifico', cursive",
-        "lobster2": "'Lobster Two', cursive"
+        "archivo": "'Archivo Black', cursive"
       },
       colors: {
         light: "#00ffdf",

@@ -19,7 +19,7 @@ const Navbar = () => {
     <div className="py-3 px-4 sm:px-8 flex-col sm:flex-row justify-center">
       <div className="w-full py-2 flex justify-between items-center">
         <Link href="/">
-          <a className="text-3xl font-bold">
+          <a className="text-3xl font-bold font-archivo">
             DUKA<span className="font-pocifico">poa</span>
           </a>
         </Link>
