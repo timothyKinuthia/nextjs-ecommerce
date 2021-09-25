@@ -19,12 +19,12 @@ const Login = () => {
             <input
               type="text"
               className={inpuStyles}
-              placeholder="Enter your name"
+              placeholder="Email Address"
             />
             <input
-              type="text"
+              type="password"
               className={inpuStyles}
-              placeholder="Enter password"
+              placeholder="Password"
             />
             <button
               type="submit"
